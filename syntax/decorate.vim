@@ -59,7 +59,7 @@ syn keyword decorateType	    int float
 syn keyword decorateStatement	var
 "syn keyword decorateBoolean		true false
 "syn keyword decorateNull		null
-syn keyword decorateStateAction	Stop Loop
+syn keyword decorateStateAction	Stop Loop Wait Fail
 syn keyword decorateLabel		Actor States
 "syn keyword decorateException	try catch
 "syn keyword decorateMessage		print
