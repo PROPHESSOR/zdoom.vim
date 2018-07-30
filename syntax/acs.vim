@@ -134,3 +134,8 @@ let b:current_syntax = "acs"
 if main_syntax == 'acs'
   unlet main_syntax
 endif
+
+
+" Default file associations
+au BufRead,BufNewFile *.acs set filetype=acs
+au BufRead,BufNewFile acs.* set filetype=acs
