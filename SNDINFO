@@ -1,0 +1,14 @@
+// Lol
+
+weapons/ssg/fire        /sounds/weapons/ssg/fire.ogg
+
+$random player/taunt {
+    player/taunt1
+    player/taunt2
+    player/taunt3
+}
+
+/*
+    TODO: FIXME: XXX: TBD:
+*/
+
